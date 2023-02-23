@@ -19,7 +19,7 @@ He usado como Framework React y Tailwind para darle estilos. La verdad que me gu
 * ✔️[Portofolio](https://miguelledesmac.github.io/Portofolio-Oficial/)
 
 ## Ver ejemplo en vivo
-✔️[Demo](ENLACEGITHUBPAGES)
+✔️[Demo](https://miguelledesmac.github.io/Pricing-component-React/)
 
 ## Instalacion
 Este proyecto no necesita instalacion. simplemente abre la carpeta o haz doble click en la demo
